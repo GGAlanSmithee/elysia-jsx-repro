@@ -1,0 +1,16 @@
+{
+  "name": "elysia-repro",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@elysiajs/html": "^0.6.4",
+    "elysia": "^0.6.22",
+    "react": "^18.2.0"
+  }
+}
